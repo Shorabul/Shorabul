@@ -73,14 +73,20 @@
 
 Reach out anytime.
 
-[![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoqueshorabul2)
+[![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoqueshorabul2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/share/1FmYPrLehy/?mibextid=wwXIfr](https://www.facebook.com/profile.php?id=100091668253423))
 
+## Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shorabul&show_icons=true&locale=en&layout=compact" alt="shorabul" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shorabul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shorabul" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shorabul&show_icons=true&locale=en" alt="shorabul" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shorabul&show_icons=true&locale=en&theme=tokyonight" alt="shorabul" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shorabul&" alt="shorabul" /></p>
-
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shorabul&theme=tokyonight" alt="shorabul" />
+</p>
