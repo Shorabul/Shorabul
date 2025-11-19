@@ -4,7 +4,7 @@
 
 ---
 
-<h4 align="center">I'm a Front-End Developer with a strong passion for modern web technologies. I'm continuously exploring new tools, improving my skills, and expanding my knowledge into full-stack development.</h4>
+<h3 align="center">I'm a Front-End Developer with a strong passion for modern web technologies. I'm continuously exploring new tools, improving my skills, and expanding my knowledge into full-stack development.</h3>
 
 - 🔭 Current Focus: **React and backend development**
 
