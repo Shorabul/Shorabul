@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shorabul Hoque</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Shorabul+Hoque!;Welcome+to+my+GitHub!;I'm+a+passionate+Web+Developer." />
+</p>
+
+---
+
 <h4 align="center">I'm a Front-End Developer with a strong passion for modern web technologies. I'm continuously exploring new tools, improving my skills, and expanding my knowledge into full-stack development.</h4>
 
 - 🔭 Current Focus: **React and backend development**
@@ -6,6 +11,8 @@
 - 🌱 Learning: **MERN stack & advanced JavaScript**
 
 - 💬 Skilled in: **JavaScript, React, Tailwind, Express, MongoDB**
+
+---
 
 ## Languages and Tools
 
@@ -73,20 +80,21 @@
 
 Reach out anytime.
 
-[![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoqueshorabul2@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hoqueshorabul2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/share/1FmYPrLehy/?mibextid=wwXIfr](https://www.facebook.com/profile.php?id=100091668253423))
 
 ## Stats
 
+<!-- GitHub Stats: Total Contributions, Current & Longest Streak -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shorabul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shorabul" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shorabul&show_icons=true&locale=en&theme=tokyonight" alt="shorabul" />
-</p>
-
-<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shorabul&show_icons=true&locale=en&theme=tokyonight" alt="shorabul" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shorabul&theme=tokyonight" alt="shorabul" />
 </p>
+
+<!-- Most Used Languages -->
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shorabul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shorabul" />
+</p>
+
+
