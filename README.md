@@ -4,15 +4,15 @@
 
 ---
 
-<h3 align="center">I'm a Front-End Developer with a strong passion for modern web technologies. I'm continuously exploring new tools, improving my skills, and expanding my knowledge into full-stack development.</h3>
+## About me
+
+<h3 align="left">I'm a Front-End Developer with a strong passion for modern web technologies. I'm continuously exploring new tools, improving my skills, and expanding my knowledge into full-stack development.</h3>
 
 - 🔭 Current Focus: **React and backend development**
 
 - 🌱 Learning: **MERN stack & advanced JavaScript**
 
 - 💬 Skilled in: **JavaScript, React, Tailwind, Express, MongoDB**
-
----
 
 ## Languages and Tools
 
@@ -22,7 +22,6 @@
     <th>Technologies</th>
   </tr>
 
-  <!-- Languages -->
   <tr>
     <td><strong>Languages</strong></td>
     <td>
@@ -31,7 +30,6 @@
     </td>
   </tr>
 
-  <!-- Frontend -->
   <tr>
     <td><strong>Frontend Technologies</strong></td>
     <td>
@@ -43,7 +41,6 @@
     </td>
   </tr>
 
-  <!-- Backend -->
   <tr>
     <td><strong>Back-End Development</strong></td>
     <td>
@@ -52,7 +49,6 @@
     </td>
   </tr>
 
-  <!-- Database -->
   <tr>
     <td><strong>Database</strong></td>
     <td>
@@ -62,7 +58,6 @@
     </td>
   </tr>
 
-  <!-- Tools -->
   <tr>
     <td><strong>Tools & Platforms</strong></td>
     <td>
@@ -86,13 +81,11 @@ Reach out anytime.
 
 ## Stats
 
-<!-- GitHub Stats: Total Contributions, Current & Longest Streak -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shorabul&show_icons=true&locale=en&theme=tokyonight" alt="shorabul" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shorabul&theme=tokyonight" alt="shorabul" />
 </p>
 
-<!-- Most Used Languages -->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shorabul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shorabul" />
 </p>
