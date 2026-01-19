@@ -76,7 +76,7 @@
 Reach out anytime.
 
 [![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hoqueshorabul2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoque-shorabul)
 [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/share/1FmYPrLehy/?mibextid=wwXIfr](https://www.facebook.com/profile.php?id=100091668253423))
 
 ## Stats
