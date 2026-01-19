@@ -4,21 +4,22 @@
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-<h3 align="left">I'm a Front-End Developer with a strong passion for modern web technologies. I'm continuously exploring new tools, improving my skills, and expanding my knowledge into full-stack development.</h3>
+I'm a Front-End Developer focused on building clean, responsive, and user-friendly web applications. I enjoy learning modern technologies, improving my workflow, and expanding my skills toward full‑stack development. I’m always excited to explore new tools, frameworks, and technologies that help me grow as a developer.
 
-- 🔭 Current Focus: **React and backend development**
+- 🔭 **Current Focus:** Next.js and backend development  
+- 🌱 **Learning:** MERN stack, advanced JavaScript, and API development  
+- 💬 **Skilled In:** JavaScript, React, Tailwind CSS, Express.js, MongoDB  
+- 🚀 **Goal:** Becoming a well-rounded full‑stack developer  
 
-- 🌱 Learning: **MERN stack & advanced JavaScript**
+---
 
-- 💬 Skilled in: **JavaScript, React, Tailwind, Express, MongoDB**
-
-## Languages and Tools
+## 🔨 Languages & Tools
 
 <table>
   <tr>
-    <th>Skills Overview</th>
+    <th>Category</th>
     <th>Technologies</th>
   </tr>
 
@@ -26,7 +27,7 @@
     <td><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
     </td>
   </tr>
 
@@ -62,31 +63,34 @@
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
     </td>
   </tr>
-
 </table>
 
-## Contact
+---
 
-Reach out anytime.
+## 📬 Contact
 
-[![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hoqueshorabul2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoque-shorabul)
-[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/share/1FmYPrLehy/?mibextid=wwXIfr](https://www.facebook.com/profile.php?id=100091668253423))
+Feel free to reach out — I'm always open to connecting, collaborating, or discussing new opportunities.
 
-## Stats
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hoqueshorabul2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoque-shorabul)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shorabul&show_icons=true&locale=en&theme=tokyonight" alt="shorabul" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shorabul&theme=tokyonight" alt="shorabul" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shorabul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shorabul" />
-</p>
+## 📊 GitHub Stats
 
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=shorabul&show_icons=true&theme=tokyonight" height="180" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shorabul&theme=tokyonight" height="180" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shorabul&layout=compact&theme=tokyonight" />
+
+</div>
