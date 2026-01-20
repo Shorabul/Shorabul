@@ -85,12 +85,13 @@ Feel free to reach out — I'm always open to connecting, collaborating, or disc
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shorabul&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shorabul&show_icons=true&theme=tokyonight" height="150" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shorabul&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shorabul&theme=tokyonight" height="150" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shorabul&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shorabul&layout=compact&theme=tokyonight" height="150" />
 
 </div>
+
